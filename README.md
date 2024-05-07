@@ -1,6 +1,6 @@
 // node mini project //
 
-features
+features : 
 user can register/login
 user can create,delete posts
 user can like posts
