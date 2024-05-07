@@ -1,10 +1,10 @@
 // node mini project //
 
 features : 
-user can register/login
-user can create,delete posts
-user can like posts
-user can update profile pic
+user can register/login,
+user can create,delete posts,
+user can like posts,
+user can update profile pic,
 
 
 
